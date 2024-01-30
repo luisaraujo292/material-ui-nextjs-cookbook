@@ -1,4 +1,4 @@
-// File: /media/ls/11791fc8-5052-4099-9316-1ebcb8704b78/home/ls/Documents/s231130/javascript/next/material-ui/examples/material-ui-nextjs/src/app/layout.js
+// File: /media/ls/11791fc8-5052-4099-9316-1ebcb8704b78/home/ls/Documents/s231130/javascript/next/material-ui/examples/material-ui-nextjs3/material-ui-nextjs-cookbook/src/app/layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
