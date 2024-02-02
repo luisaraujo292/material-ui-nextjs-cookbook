@@ -1,3 +1,4 @@
 {
-  "/breakpoints/page": "app/breakpoints/page.js"
+  "/breakpoints/page": "app/breakpoints/page.js",
+  "/filling-space/page": "app/filling-space/page.js"
 }
