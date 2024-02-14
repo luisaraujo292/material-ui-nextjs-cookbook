@@ -12,7 +12,7 @@ export default function FillingSpace() {
         <Grid item xs={12} sm={6} md={3}>
           <Paper>
          {/*<Grid container justifyContent='justify'>*/}
-            <Grid container justifyContent='center'>
+            <Grid container justifyContent='space-between'>
               <Grid item>
                 <Chip label="xs=12" />
               </Grid>
